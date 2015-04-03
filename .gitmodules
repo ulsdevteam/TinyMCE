@@ -1,0 +1,3 @@
+[submodule "webroot/js/tiny_mce4/plugins/validatable"]
+	path = webroot/js/tiny_mce4/plugins/validatable
+	url = ssh://git@github.com/ulsdevteam/tinymce-validatable
